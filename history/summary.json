@@ -58,19 +58,19 @@
     "url": "https://www.canalgrandejet.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.canalgrandejet.com.ico",
     "slug": "canal-grande-jet",
-    "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
-    "time": 1794,
-    "timeDay": 1794,
-    "timeWeek": 1794,
-    "timeMonth": 1794,
-    "timeYear": 1794,
+    "status": "up",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 2431,
+    "timeDay": 2431,
+    "timeWeek": 2431,
+    "timeMonth": 2431,
+    "timeYear": 2431,
     "dailyMinutesDown": {
-      "2025-04-01": 34
+      "2025-04-01": 96
     }
   },
   {
