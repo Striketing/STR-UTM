@@ -6,11 +6,13 @@ sites:
   - name: Striketing
     url: https://www.striketing.com
   - name: Isolcore
-    url: https://isolcore.com
+    url: https://www.isolcore.com
   - name: Distilleria Gastaldi
-    url: https://distilleriagastaldi.com
+    url: https://www.distilleriagastaldi.com
   - name: Canal Grande Jet
-    url: https://canalgrandejet.com
+    url: https://www.canalgrandejet.com
+  - name: Andreaus
+    url: https://andreaus.com.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
