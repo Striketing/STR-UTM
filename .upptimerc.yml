@@ -20,7 +20,7 @@ status-website:
   cname: utm.striketing.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.striketing.com/Logo_Striketing_3000x737.svg
-  name: Striketing Uptime Monitor
+  name: Uptime Monitor
   introTitle: "**Striketing Uptime Monitor** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Easily check the status of websites managed by Striketing.
   navbar:
