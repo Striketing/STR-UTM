@@ -1,0 +1,29 @@
+# Change these first
+owner: Striketing # Your GitHub organization or username, where this repository lives
+repo: STR-UTM # The name of this repository
+
+sites:
+  - name: Striketing
+    url: https://www.striketing.com
+  - name: Isolcore
+    url: https://isolcore.com
+  - name: Distilleria Gastaldi
+    url: https://distilleriagastaldi.com
+  - name: Canal Grande Jet
+    url: https://canalgrandejet.com
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: utm.striketing.com
+  # baseUrl: /your-repo-name
+  logoUrl: https://www.striketing.com/Logo_Striketing_3000x737.svg
+  name: Striketing Uptime Monitor
+  introTitle: "**Striketing Uptime Monitor** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: Easily check the status of websites managed by Striketing.
+  navbar:
+    - title: Striketing
+      href: https://www.striketing.com
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
