@@ -75,8 +75,6 @@ sites:
     url: https://www.jeffeveline.com
   - name: josefingarage.com
     url: https://www.josefingarage.com
-  - name: kulagency.de
-    url: https://www.kulagency.de
   - name: lanfree.net
     url: https://www.lanfree.net
   - name: lucagaraboni.com
@@ -100,7 +98,7 @@ sites:
   - name: prestitonet.com
     url: https://www.prestitonet.com
   - name: shop.defaverispumanti.it
-    url: https://www.shop.defaverispumanti.it
+    url: https://shop.defaverispumanti.it
   - name: striketing.com
     url: https://www.striketing.com
   - name: techno-vip.it
