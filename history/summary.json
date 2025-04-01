@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canalgrandejet.com.ico",
     "slug": "canal-grande-jet",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 1792,
     "timeDay": 1792,
     "timeWeek": 1792,
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andreaus.com.ico",
     "slug": "andreaus",
     "status": "up",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 601,
     "timeDay": 601,
     "timeWeek": 601,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {
-      "2025-04-01": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
