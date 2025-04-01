@@ -1,18 +1,124 @@
 # Change these first
 owner: Striketing # Your GitHub organization or username, where this repository lives
-repo: STR-UTM # The name of this repository
+repo: STR-UTM    # The name of this repository
 
 sites:
-  - name: Striketing
-    url: https://www.striketing.com
-  - name: Isolcore
-    url: https://www.isolcore.com
-  - name: Distilleria Gastaldi
-    url: https://www.distilleriagastaldi.com
-  - name: Canal Grande Jet
-    url: https://www.canalgrandejet.com
-  - name: Andreaus
+  - name: aggsrl.com
+    url: https://www.aggsrl.com
+  - name: amburgheria.it
+    url: https://www.amburgheria.it
+  - name: andreaus.com
     url: https://www.andreaus.com
+  - name: anomalje.com
+    url: https://www.anomalje.com
+  - name: aqualta.it
+    url: https://www.aqualta.it
+  - name: aqualtra.it
+    url: https://www.aqualtra.it
+  - name: benifin.it
+    url: https://www.benifin.it
+  - name: blastism.com
+    url: https://www.blastism.com
+  - name: canalgrande.it
+    url: https://www.canalgrande.it
+  - name: carfilmdigitale.it
+    url: https://www.carfilmdigitale.it
+  - name: cessionedelquinto-online.it
+    url: https://www.cessionedelquinto-online.it
+  - name: cessionedelquintopensionati.com
+    url: https://www.cessionedelquintopensionati.com
+  - name: clarity-app.com
+    url: https://www.clarity-app.com
+  - name: clinicatodaro.it
+    url: https://www.clinicatodaro.it
+  - name: cobret.us
+    url: https://www.cobret.us
+  - name: corsosaldatura.com
+    url: https://www.corsosaldatura.com
+  - name: coverall-italia.com
+    url: https://www.coverall-italia.com
+  - name: distilleriagastaldi.com
+    url: https://www.distilleriagastaldi.com
+  - name: eco-innovazione.it
+    url: https://www.eco-innovazione.it
+  - name: energiasolaresemplice.com
+    url: https://www.energiasolaresemplice.com
+  - name: escoconsulting.it
+    url: https://www.escoconsulting.it
+  - name: facciatesolari.net
+    url: https://www.facciatesolari.net
+  - name: fedehaus.com
+    url: https://www.fedehaus.com
+  - name: geofondazioni.it
+    url: https://www.geofondazioni.it
+  - name: gianlucaviani.com
+    url: https://www.gianlucaviani.com
+  - name: giuliazanattadesign.com
+    url: https://www.giuliazanattadesign.com
+  - name: inoxibiza.com
+    url: https://www.inoxibiza.com
+  - name: isolcore.com
+    url: https://www.isolcore.com
+  - name: isolcore.de
+    url: https://www.isolcore.de
+  - name: isolcore.es
+    url: https://www.isolcore.es
+  - name: isolcore.fr
+    url: https://www.isolcore.fr
+  - name: isolcore.uk
+    url: https://www.isolcore.uk
+  - name: itaforma.com
+    url: https://www.itaforma.com
+  - name: ital-ina.it
+    url: https://www.ital-ina.it
+  - name: jeffeveline.com
+    url: https://www.jeffeveline.com
+  - name: josefingarage.com
+    url: https://www.josefingarage.com
+  - name: kulagency.de
+    url: https://www.kulagency.de
+  - name: lanfree.net
+    url: https://www.lanfree.net
+  - name: lucagaraboni.com
+    url: https://www.lucagaraboni.com
+  - name: marcoconte.net
+    url: https://www.marcoconte.net
+  - name: marinascafoclub.com
+    url: https://www.marinascafoclub.com
+  - name: momysweethome.com
+    url: https://www.momysweethome.com
+  - name: my.marinascafoclub.com
+    url: https://www.my.marinascafoclub.com
+  - name: noleggiobarcavenezia.it
+    url: https://www.noleggiobarcavenezia.it
+  - name: nutrizionista-benessere.it
+    url: https://www.nutrizionista-benessere.it
+  - name: prestiti-inpdap.com
+    url: https://www.prestiti-inpdap.com
+  - name: prestito-personale.com
+    url: https://www.prestito-personale.com
+  - name: prestitonet.com
+    url: https://www.prestitonet.com
+  - name: shop.defaverispumanti.it
+    url: https://www.shop.defaverispumanti.it
+  - name: striketing.com
+    url: https://www.striketing.com
+  - name: techno-vip.it
+    url: https://www.techno-vip.it
+  - name: tessilmoquette.it
+    url: https://www.tessilmoquette.it
+  - name: ubm1948.com
+    url: https://www.ubm1948.com
+  - name: vincenzoprimitivo.com
+    url: https://www.vincenzoprimitivo.com
+  - name: vobrecords.com
+    url: https://www.vobrecords.com
+  - name: wrapboyz.it
+    url: https://www.wrapboyz.it
+  - name: wspring.club
+    url: https://www.wspring.club
+  - name: zelandidesign.com
+    url: https://www.zelandidesign.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
