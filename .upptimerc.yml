@@ -12,7 +12,7 @@ sites:
   - name: Canal Grande Jet
     url: https://www.canalgrandejet.com
   - name: Andreaus
-    url: https://andreaus.com.com
+    url: https://www.andreaus.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
