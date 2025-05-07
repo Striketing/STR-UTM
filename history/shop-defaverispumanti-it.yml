@@ -1,7 +1,7 @@
 url: https://shop.defaverispumanti.it
-status: up
-code: 200
-responseTime: 1243
-lastUpdated: 2025-05-06T23:20:05.075Z
+status: down
+code: 500
+responseTime: 840
+lastUpdated: 2025-05-07T17:02:12.928Z
 startTime: 2025-04-01T15:11:55.190Z
 generator: Upptime <https://github.com/upptime/upptime>
