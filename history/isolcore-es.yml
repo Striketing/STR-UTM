@@ -1,7 +1,7 @@
 url: https://www.isolcore.es
-status: up
-code: 200
-responseTime: 1062
-lastUpdated: 2025-05-06T23:19:34.377Z
+status: down
+code: 500
+responseTime: 417
+lastUpdated: 2025-05-07T17:01:44.277Z
 startTime: 2025-04-01T15:10:41.655Z
 generator: Upptime <https://github.com/upptime/upptime>
