@@ -438,19 +438,19 @@
     "url": "https://www.fedehaus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.fedehaus.com.ico",
     "slug": "fedehaus-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2398,
-    "timeDay": 1285,
-    "timeWeek": 2117,
-    "timeMonth": 2803,
-    "timeYear": 2398,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 2407,
+    "timeDay": 2110,
+    "timeWeek": 2219,
+    "timeMonth": 2807,
+    "timeYear": 2407,
     "dailyMinutesDown": {
-      "2025-05-20": 2
+      "2025-05-20": 23
     }
   },
   {
