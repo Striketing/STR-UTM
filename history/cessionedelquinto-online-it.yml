@@ -1,7 +1,7 @@
 url: https://www.cessionedelquinto-online.it
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2025-05-21T23:19:30.589Z
+status: down
+code: 500
+responseTime: 1400
+lastUpdated: 2025-05-22T12:56:15.705Z
 startTime: 2025-04-01T15:09:53.559Z
 generator: Upptime <https://github.com/upptime/upptime>
