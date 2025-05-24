@@ -229,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cessionedelquintopensionati.com.ico",
     "slug": "cessionedelquintopensionati-com",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.13%",
     "time": 4558,
     "timeDay": 4874,
     "timeWeek": 4558,
@@ -966,10 +966,10 @@
     "url": "https://www.techno-vip.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.techno-vip.it.ico",
     "slug": "techno-vip-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 648,
@@ -977,7 +977,9 @@
     "timeWeek": 657,
     "timeMonth": 682,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 1
+    }
   },
   {
     "name": "tessilmoquette.it",
