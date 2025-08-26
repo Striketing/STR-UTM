@@ -1,7 +1,7 @@
 url: https://www.marcoconte.net
-status: up
-code: 200
-responseTime: 5024
-lastUpdated: 2025-08-25T23:21:35.464Z
+status: down
+code: 500
+responseTime: 960
+lastUpdated: 2025-08-26T14:59:26.840Z
 startTime: 2025-04-01T15:11:32.756Z
 generator: Upptime <https://github.com/upptime/upptime>
