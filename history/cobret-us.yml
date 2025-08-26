@@ -1,7 +1,7 @@
 url: https://www.cobret.us
-status: up
-code: 200
-responseTime: 6621
-lastUpdated: 2025-08-25T23:20:14.618Z
+status: down
+code: 500
+responseTime: 889
+lastUpdated: 2025-08-26T14:49:27.804Z
 startTime: 2025-04-01T15:10:06.698Z
 generator: Upptime <https://github.com/upptime/upptime>
