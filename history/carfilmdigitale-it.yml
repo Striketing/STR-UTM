@@ -1,7 +1,7 @@
 url: https://www.carfilmdigitale.it
-status: up
-code: 200
-responseTime: 7009
-lastUpdated: 2025-08-26T23:15:10.251Z
+status: down
+code: 502
+responseTime: 4133
+lastUpdated: 2025-08-27T02:01:15.586Z
 startTime: 2025-04-01T15:09:52.318Z
 generator: Upptime <https://github.com/upptime/upptime>
