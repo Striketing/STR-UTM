@@ -1,7 +1,7 @@
 url: https://www.canalgrande.it
-status: up
-code: 200
-responseTime: 2173
-lastUpdated: 2025-08-26T23:15:00.657Z
+status: down
+code: 502
+responseTime: 5150
+lastUpdated: 2025-08-27T02:01:09.688Z
 startTime: 2025-04-01T15:09:49.447Z
 generator: Upptime <https://github.com/upptime/upptime>
