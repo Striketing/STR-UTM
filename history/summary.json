@@ -520,7 +520,7 @@
     "timeMonth": 1249,
     "timeYear": 2629,
     "dailyMinutesDown": {
-      "2025-12-16": 109,
+      "2025-12-16": 125,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -1765,7 +1765,7 @@
     "uptime": "86.36%",
     "uptimeDay": "90.48%",
     "uptimeWeek": "96.01%",
-    "uptimeMonth": "47.02%",
+    "uptimeMonth": "47.05%",
     "uptimeYear": "86.36%",
     "time": 2588,
     "timeDay": 1876,
