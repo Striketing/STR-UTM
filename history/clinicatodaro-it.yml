@@ -1,7 +1,7 @@
 url: https://www.clinicatodaro.it
-status: up
-code: 200
-responseTime: 2709
-lastUpdated: 2026-02-19T23:32:51.760Z
+status: down
+code: 415
+responseTime: 1070
+lastUpdated: 2026-02-20T08:56:41.182Z
 startTime: 2025-04-01T15:10:05.003Z
 generator: Upptime <https://github.com/upptime/upptime>
