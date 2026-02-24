@@ -578,7 +578,7 @@
     "timeMonth": 1243,
     "timeYear": 2340,
     "dailyMinutesDown": {
-      "2026-02-24": 136,
+      "2026-02-24": 162,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -1177,7 +1177,7 @@
     "slug": "clinicatodaro-it",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.30%",
+    "uptimeDay": "99.07%",
     "uptimeWeek": "90.71%",
     "uptimeMonth": "95.28%",
     "uptimeYear": "99.54%",
